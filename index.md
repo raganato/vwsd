@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to the SemEval-2023 Task-1 - V-WSD: Visual Word Sense Disambiguation (V-WSD)
 
-You can use the [editor on GitHub](https://github.com/raganato/vwsd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We will upload trial data and codalab link very soon!
+**Join the mailing group:** _vwsd@googlegroups.com_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Task:** Given a word and some limited textual context, the task is to select among a set of candidate images the one which corresponds to the intended meaning of the target word.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Organizers of the shared task:**
 
-```markdown
-Syntax highlighted code block
+- Alessandro Raganato
+https://raganato.github.io/
+Department of Informatics, Systems, and Communication, University of Milano-Bicocca, Italy
+- Iacer Calixto
+https://iacercalixto.github.io/
+Amsterdam UMC, University of Amsterdam, Netherlands
+- Jose Camacho-Collados
+https://josecamachocollados.com/
+School of Computer Science and Informatics, Cardiff University, United Kingdom
+- Asahi Ushio
+https://asahiushio.com/
+School of Computer Science and Informatics, Cardiff University, United Kingdom
+- Mohammad Taher Pilehvar
+https://pilehvar.github.io/
+Tehran Institute for Advanced Studies, Iran
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raganato/vwsd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

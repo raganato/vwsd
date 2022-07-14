@@ -1,6 +1,6 @@
 ## Welcome to the SemEval-2023 Task-1 - V-WSD: Visual Word Sense Disambiguation (V-WSD)
 
-We will upload trial data and codalab link very soon!
+We will upload the sample data and codalab link very soon!
 **Join the mailing group:** _vwsd@googlegroups.com_
 
 **Task:** Given a word and some limited textual context, the task is to select among a set of candidate images the one which corresponds to the intended meaning of the target word.

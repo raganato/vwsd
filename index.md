@@ -8,8 +8,8 @@ We will upload the sample data and codalab link very soon!
 
 **Organizers of the shared task:**
 
-- Alessandro Raganato
-[https://raganato.github.io/](https://raganato.github.io/), 
+- [Alessandro Raganato]
+(https://raganato.github.io/), 
 Department of Informatics, Systems, and Communication, University of Milano-Bicocca, Italy
 - Iacer Calixto
 [https://iacercalixto.github.io/](https://iacercalixto.github.io/), 

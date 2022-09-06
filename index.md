@@ -6,7 +6,7 @@
 
 **Task:** Given a word and some limited textual context, the task is to select among a set of candidate images the one which corresponds to the intended meaning of the target word.
 
-**Example:** Given the full phrase *andromeda tree* containing the ambiguous target word *andromeda*, and the following ten candidate images, the task is to select the corresponding one. In this case, the correct image is the first one on the left.   
+**Example:** Given the full phrase *andromeda tree* containing the ambiguous target word *andromeda*, and the following ten candidate images, the task is to select the corresponding one. In this case, the correct image is the first one on the left, as shown below.   
 
 <p float="left">
   <img src="/vwsd/docs/assets/image.172.jpg" width="150" />

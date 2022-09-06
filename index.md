@@ -2,7 +2,7 @@
 
 **Join the mailing group:** [vwsd@googlegroups.com](vwsd@googlegroups.com)
 
-[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing) (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
+**[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
 
 
 

@@ -4,7 +4,7 @@
 
 **[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
 
-<!-- ![sample image](/vwsd/docs/assets/image.172.jpg) -->
+ ![sample image](/vwsd/docs/assets/image.172.jpg =250x) 
 
 <!-- | Image 1  | Image 2 | -->
 <!-- | ------------- | ------------- | -->

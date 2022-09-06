@@ -4,7 +4,14 @@
 
 **[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
 
+<!-- <img src="/vwsd/docs/assets/image.172.jpg" style="object-fit:scale-down;"> -->
 <!-- ![sample image](/vwsd/docs/assets/image.172.jpg) -->
+
+<p float="left">
+  <img src="/vwsd/docs/assets/image.172.jpg" width="100" />
+  <img src="/vwsd/docs/assets/image.172.jpg" width="100" /> 
+  <img src="/vwsd/docs/assets/image.172.jpg" width="100" />
+</p>
 
 <!-- | Image 1  | Image 2 | -->
 <!-- | ------------- | ------------- | -->

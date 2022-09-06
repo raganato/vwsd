@@ -4,30 +4,24 @@
 
 **[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
 
-<!-- <img src="/vwsd/docs/assets/image.172.jpg" style="object-fit:scale-down;"> -->
-<!-- ![sample image](/vwsd/docs/assets/image.172.jpg) -->
-
-<p float="left">
-  <img src="/vwsd/docs/assets/image.172.jpg" width="100" />
-  <img src="/vwsd/docs/assets/image.173.jpg" width="100" /> 
-  <img src="/vwsd/docs/assets/image.174.jpg" width="100" />
-  <img src="/vwsd/docs/assets/image.175.jpg" width="100" />
-  <img src="/vwsd/docs/assets/image.176.jpg" width="100" />
-</p>
-
-<p float="left">
-  <img src="/vwsd/docs/assets/image.177.jpg" width="100" />
-  <img src="/vwsd/docs/assets/image.178.jpg" width="100" /> 
-  <img src="/vwsd/docs/assets/image.179.jpg" width="100" />
-  <img src="/vwsd/docs/assets/image.180.jpg" width="100" />
-  <img src="/vwsd/docs/assets/image.181.jpg" width="100" />
-</p>
-
-<!-- | Image 1  | Image 2 | -->
-<!-- | ------------- | ------------- | -->
-<!-- | ![sample image](/vwsd/docs/assets/image.172.jpg)  | ![sample image](/vwsd/docs/assets/image.173.jpg)  | -->
-
 **Task:** Given a word and some limited textual context, the task is to select among a set of candidate images the one which corresponds to the intended meaning of the target word.
+
+
+<p float="left">
+  <img src="/vwsd/docs/assets/image.172.jpg" width="150" />
+  <img src="/vwsd/docs/assets/image.173.jpg" width="150" /> 
+  <img src="/vwsd/docs/assets/image.174.jpg" width="150" />
+  <img src="/vwsd/docs/assets/image.175.jpg" width="150" />
+  <img src="/vwsd/docs/assets/image.176.jpg" width="150" />
+</p>
+
+<p float="left">
+  <img src="/vwsd/docs/assets/image.177.jpg" width="150" />
+  <img src="/vwsd/docs/assets/image.178.jpg" width="150" /> 
+  <img src="/vwsd/docs/assets/image.179.jpg" width="150" />
+  <img src="/vwsd/docs/assets/image.180.jpg" width="150" />
+  <img src="/vwsd/docs/assets/image.181.jpg" width="150" />
+</p>
 
 
 **Organizers of the shared task:**

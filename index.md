@@ -24,7 +24,7 @@
   <img src="/vwsd/docs/assets/image.181.jpg" width="150" />
 </p>
 
-**GOLD image:**
+**Gold image:**
 
 <p float="left">
   <img src="/vwsd/docs/assets/image.172.jpg" width="150" />

@@ -2,7 +2,7 @@
 
 **Join the mailing group:** [vwsd@googlegroups.com](vwsd@googlegroups.com)
 
-**[Codalab competition page]()** coming soon 
+**[Codalab competition page](https://codalab.lisn.upsaclay.fr/competitions/8190)** (Updated Oct 18, 2022) 
 
 **[Download train data](https://drive.google.com/file/d/1byX4wpe1UjyCVyYrT04sW17NnycKAK7N/view?usp=sharing)** (Updated Oct 18, 2022): Train data in English language, including gold keys.
 

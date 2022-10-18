@@ -1,4 +1,4 @@
-## Welcome to the SemEval-2023 Task-1 - V-WSD: Visual Word Sense Disambiguation (V-WSD)
+## Welcome to the SemEval-2023 Task-1 - Visual-WSD: Visual Word Sense Disambiguation (Visual-WSD)
 
 **Join the mailing group:** [vwsd@googlegroups.com](vwsd@googlegroups.com)
 

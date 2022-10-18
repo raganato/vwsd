@@ -4,7 +4,7 @@
 
 **[Codalab competition page](https://codalab.lisn.upsaclay.fr/competitions/8190)** (Updated Oct 18, 2022)
 
-**[Download train data]()** (Updated Oct 18, 2022): Train data in English language, including gold keys.
+**[Download train data](https://drive.google.com/file/d/1byX4wpe1UjyCVyYrT04sW17NnycKAK7N/view?usp=sharing)** (Updated Oct 18, 2022): Train data in English language, including gold keys.
 
 **[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
 

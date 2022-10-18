@@ -1,5 +1,5 @@
 # vwsd
-SemEval-2023 Task-1 - V-WSD: Visual Word Sense Disambiguation (V-WSD)
+SemEval-2023 Task-1 - Visual-WSD: Visual Word Sense Disambiguation (Visual-WSD)
 
 Part of the 17th International Workshop on Semantic Evaluation (SemEval 2023).
 

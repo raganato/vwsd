@@ -10,6 +10,9 @@
 
 **License:** The dataset is released under the CC-BY-NC 4.0 license.
 
+**Fair data usage policy:** We require users participating in our shared task to adhere to a fair data usage policy. All users agree that they will not attempt to search the trial/training/test data using any search engine on the web, to reverse engineer the data generation process, or to tamper with the data beyond the goals of the task.
+
+
 **Task:** Given a word and some limited textual context, the task is to select among a set of candidate images the one which corresponds to the intended meaning of the target word.
 
 **Example:** Given the full phrase *andromeda tree* containing the ambiguous target word *andromeda*, and the following ten candidate images, the task is to select the corresponding one. In this case, the correct image is the first one on the left, as shown below.   

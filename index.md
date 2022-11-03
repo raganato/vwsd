@@ -1,6 +1,6 @@
 ## Welcome to the SemEval-2023 Task-1 - Visual-WSD: Visual Word Sense Disambiguation (Visual-WSD)
 
-**Join the mailing group:** [vwsd@googlegroups.com](vwsd@googlegroups.com)
+**Join the mailing group:** [vwsd@googlegroups.com](https://groups.google.com/g/vwsd)
 
 **[Codalab competition page](https://codalab.lisn.upsaclay.fr/competitions/8190)** (Updated Oct 18, 2022) 
 

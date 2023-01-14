@@ -8,9 +8,9 @@
 
 **[Download trial data](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data for the English language, including gold keys.
 
-**[Download test images] - [Google drive link](https://drive.google.com/file/d/1rK7EskkEXzD59j5On-8orO5mIinQGUMW/view?usp=share_link) - [OneDrive link](https://cf-my.sharepoint.com/personal/camachocolladosj_cardiff_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcamachocolladosj%5Fcardiff%5Fac%5Fuk%2FDocuments%2Fsemeval2023%2Dvisualwsd%2Dtest%5Fimages%5Fv1%2Ezip&parent=%2Fpersonal%2Fcamachocolladosj%5Fcardiff%5Fac%5Fuk%2FDocuments&ga=1) [10.4GB]** (Updated Jan 14, 2023): Test images.
+**Download test images - [Google drive link](https://drive.google.com/file/d/1rK7EskkEXzD59j5On-8orO5mIinQGUMW/view?usp=share_link) - [OneDrive link](https://cf-my.sharepoint.com/personal/camachocolladosj_cardiff_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcamachocolladosj%5Fcardiff%5Fac%5Fuk%2FDocuments%2Fsemeval2023%2Dvisualwsd%2Dtest%5Fimages%5Fv1%2Ezip&parent=%2Fpersonal%2Fcamachocolladosj%5Fcardiff%5Fac%5Fuk%2FDocuments&ga=1) [10.4GB]** (Updated Jan 14, 2023): Test images.
 
-**[Download test images resized] - [Google drive link](https://drive.google.com/file/d/15ed8TXY9Pzk68_SCooFm7AfkeFtCd16Q/view?usp=share_link) [572MB]** (Updated Jan 14, 2023): Test images.
+**Download test images resized - [Google drive link](https://drive.google.com/file/d/15ed8TXY9Pzk68_SCooFm7AfkeFtCd16Q/view?usp=share_link) [572MB]** (Updated Jan 14, 2023): Test images.
 
 **[Download test data](https://drive.google.com/file/d/1kK-qv8HGp7pL78kJXuDr4kxGkEOsyC0j/view?usp=share_link)** (Updated Jan 14, 2023): Test data for the English, Farsi and Italian languages.
 

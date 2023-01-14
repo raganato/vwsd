@@ -12,7 +12,7 @@
 
 **[TEST] Download test images resized - [Google drive link](https://drive.google.com/file/d/15ed8TXY9Pzk68_SCooFm7AfkeFtCd16Q/view?usp=share_link) [572MB]** (Updated Jan 14, 2023): Test images resized in a small format.
 
-**[TEST] Download test data(https://drive.google.com/file/d/1kK-qv8HGp7pL78kJXuDr4kxGkEOsyC0j/view?usp=share_link)** (Updated Jan 14, 2023): Test data for the English, Farsi and Italian languages.
+**[TEST] Download test data - [Google drive link](https://drive.google.com/file/d/1kK-qv8HGp7pL78kJXuDr4kxGkEOsyC0j/view?usp=share_link)** (Updated Jan 14, 2023): Test data for the English, Farsi and Italian languages.
 
 **License:** The dataset is released under the CC-BY-NC 4.0 license.
 

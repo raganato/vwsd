@@ -12,7 +12,7 @@
 
 **[TEST] Download test images - [Google drive link](https://drive.google.com/file/d/1rK7EskkEXzD59j5On-8orO5mIinQGUMW/view?usp=share_link) - [OneDrive link](https://cf-my.sharepoint.com/:u:/g/personal/camachocolladosj_cardiff_ac_uk/ETXzWJCEdKJDtFluRbYGUGYBzfdnaeOuSwL5hiqCW-k38Q?e=KM46M6) [10.4GB]** (Updated Jan 14, 2023): Test images in their original size.
 
-**[TEST] Download test data - [Google drive link](https://drive.google.com/file/d/1lWuLpCKzpUJGBUMGIY0lE9xkI7vk-FEa/view?usp=share_link)** (Updated Jan 26, 2023): Test data (queries) for the English, Farsi and Italian languages.
+**[TEST] Download test data - [Google drive link](https://drive.google.com/file/d/10vDZsY0EhzvFFR8IF-3P_2ApOF0GIMML/view?usp=share_link)** (Updated Feb 08, 2023): Test data (queries) for the English, Farsi and Italian languages, including gold keys.
 
 **[TEST] Download test images resized - [Google drive link](https://drive.google.com/file/d/15ed8TXY9Pzk68_SCooFm7AfkeFtCd16Q/view?usp=share_link) - [OneDrive link](https://cf-my.sharepoint.com/:u:/g/personal/camachocolladosj_cardiff_ac_uk/EY0IqJykeKZOiXNX7jJ3QToBAq8PUpjtQ9DtUI0_-P3HuA?e=fGf9U9) [572MB]** (Updated Jan 14, 2023): These are the same images in the test set, but resized to a smaller size. Participants may choose to use either one or the other for their final submission(s).
 

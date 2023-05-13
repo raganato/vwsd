@@ -8,6 +8,8 @@
 
 **[Baseline organizers - GitHub link](https://github.com/asahi417/visual-wsd-baseline)**
 
+**[Overview of some SemEval Participants systems provided by the participants themselves, including a short description and GitHub link (whether available)](https://docs.google.com/spreadsheets/d/12Ak0CGM4YacpeV2J77UVQKSIrDRuIKoKWeCXddvBuSc/edit?usp=sharing)**
+
 **[TRAIN+TRIAL] Download train+trial data - [Google drive link](https://drive.google.com/file/d/1byX4wpe1UjyCVyYrT04sW17NnycKAK7N/view?usp=sharing) - [OneDrive link](https://cf-my.sharepoint.com/:u:/g/personal/camachocolladosj_cardiff_ac_uk/ERFsG4by92ZPuW1dQQGuLfcBzHifN-NX1tCL6s6g-9-RMw?e=gU1BMX) [17GB]** (Updated Oct 18, 2022): Train and trial data in English language, including gold keys.
 
 **[TRIAL] Download trial data - [Google drive link](https://drive.google.com/file/d/1LbVRPq3NdEscawk6-Vn5hH41s3rs68gE/view?usp=sharing)** (Updated Sept 06, 2022): Trial data only (no train) for the English language, including gold keys.

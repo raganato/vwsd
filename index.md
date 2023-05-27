@@ -2,6 +2,23 @@
 
 **Join the mailing group:** [vwsd@googlegroups.com](https://groups.google.com/g/vwsd)
 
+**Citation:**
+```
+@inproceedings{raganato-etal-2023-semeval,
+    title = "{S}em{E}val-2023 {T}ask 1: {V}isual {W}ord {S}ense {D}isambiguation",
+    author = "Raganato, Alessandro  and
+      Calixto, Iacer and
+      Ushio, Asahi and
+      Camacho-Collados, Jose  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+}
+```
+
 **[Codalab competition page](https://codalab.lisn.upsaclay.fr/competitions/8190)** 
 
 **[Ranking Final (Test) Phase of the Visual-WSD Competition 2023](https://docs.google.com/spreadsheets/d/1JJ2wezNN56bPOKge3fJ5Icvh5cB7GD9HojR7S1ly934/edit?usp=sharing)** (Updated Feb 6, 2023)
